@@ -1,0 +1,1 @@
+Similar to Critters project but with JavaFX and MVC
